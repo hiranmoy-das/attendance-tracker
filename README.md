@@ -5,9 +5,9 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/arpanpramanik2003/attendance-tracker/graphs/commit-activity)
-[![GitHub issues](https://img.shields.io/github/issues/arpanpramanik2003/attendance-tracker)](https://github.com/arpanpramanik2003/attendance-tracker/issues)
-[![GitHub stars](https://img.shields.io/github/stars/arpanpramanik2003/attendance-tracker)](https://github.com/arpanpramanik2003/attendance-tracker/stargazers)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/hiranmoydas/attendance-tracker/graphs/commit-activity)
+[![GitHub issues](https://img.shields.io/github/issues/hiranmoydas/attendance-tracker)](https://github.com/hiranmoydas/attendance-tracker/issues)
+[![GitHub stars](https://img.shields.io/github/stars/hiranmoydas/attendance-tracker)](https://github.com/hiranmoydas/attendance-tracker/stargazers)
 
 **A robust Python-based GUI application for streamlined student attendance management**
 
@@ -90,7 +90,7 @@ python3 --version
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/arpanpramanik2003/attendance-tracker.git
+git clone [https://github.com/hiranmoydas/attendance-tracker.git](https://github.com/hiranmoydas/attendance-tracker.git)
 cd attendance-tracker
 ```
 
@@ -127,18 +127,18 @@ python attendance_tracker.py
 ```
 
 2. **Login**
-   - Enter your credentials at the login screen
-   - Default credentials (if applicable) can be configured in the script
+  - Enter your credentials at the login screen
+  - Default credentials (if applicable) can be configured in the script
 
 3. **Register Students**
-   - Navigate to the student registration section
-   - Enter student name and unique ID
-   - Click "Register" to add the student
+  - Navigate to the student registration section
+  - Enter student name and unique ID
+  - Click "Register" to add the student
 
 4. **Mark Attendance**
-   - Select the date (defaults to current date)
-   - Mark students as Present (P) or Absent (A)
-   - Save attendance to update the CSV file
+  - Select the date (defaults to current date)
+  - Mark students as Present (P) or Absent (A)
+  - Save attendance to update the CSV file
 
 ### Application Interface
 
@@ -281,7 +281,7 @@ We welcome contributions from the community! Here's how you can help:
 1. **Fork the repository**
 
 ```bash
-git clone https://github.com/your-username/attendance-tracker.git
+git clone [https://github.com/hiranmoydas/attendance-tracker.git](https://github.com/hiranmoydas/attendance-tracker.git)
 ```
 
 2. **Create a feature branch**
@@ -291,9 +291,9 @@ git checkout -b feature/your-feature-name
 ```
 
 3. **Make your changes**
-   - Write clean, documented code
-   - Follow PEP 8 style guidelines
-   - Test your changes thoroughly
+  - Write clean, documented code
+  - Follow PEP 8 style guidelines
+  - Test your changes thoroughly
 
 4. **Commit your changes**
 
@@ -308,8 +308,8 @@ git push origin feature/your-feature-name
 ```
 
 6. **Open a Pull Request**
-   - Provide a clear description of your changes
-   - Reference any related issues
+  - Provide a clear description of your changes
+  - Reference any related issues
 
 ### Code of Conduct
 
@@ -348,7 +348,7 @@ This project is licensed under the **MIT License** - see below for details:
 ```
 MIT License
 
-Copyright (c) 2024 Arpan Pramanik
+Copyright (c) 2026 Hiranmoy Das
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -373,9 +373,9 @@ SOFTWARE.
 
 ## 📞 Support & Contact
 
-- **Issues**: [GitHub Issues](https://github.com/arpanpramanik2003/attendance-tracker/issues)
-- **Repository**: [GitHub Repository](https://github.com/arpanpramanik2003/attendance-tracker)
-- **Author**: [Arpan Pramanik](https://github.com/arpanpramanik2003)
+- **Issues**: [GitHub Issues](https://github.com/hiranmoydas/attendance-tracker/issues)
+- **Repository**: [GitHub Repository](https://github.com/hiranmoydas/attendance-tracker)
+- **Author**: [Hiranmoy Das](https://github.com/hiranmoydas)
 
 ---
 
@@ -391,6 +391,6 @@ SOFTWARE.
 
 **⭐ If you find this project useful, please consider giving it a star!**
 
-Made with ❤️ by [Arpan Pramanik](https://github.com/arpanpramanik2003)
+Made with ❤️ by [Hiranmoy Das](https://github.com/hiranmoydas)
 
 </div>
